@@ -1,4 +1,4 @@
-# ragging-pdfs
+# RAG on Pdfs
 proejct for building and testing retrieval augmented generation over pdfs. 
 
 **Primary Tools**: 
