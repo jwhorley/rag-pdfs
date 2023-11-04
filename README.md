@@ -5,4 +5,8 @@ proejct for building and testing retrieval augmented generation over pdfs.
 - Langchain / Llamaindex
 - Embedding: Ada2 or...
 - Persistent Vector database: Qdrant / Pinecone
-- LLM: InstructGPT / HuggingFace -->[ ] 
+- LLM: InstructGPT / HuggingFace -->[ ]
+
+
+### Qdrant: 
+/GET URL (Collections End point) > Documentation [here](https://qdrant.tech/documentation/concepts/collections/)
